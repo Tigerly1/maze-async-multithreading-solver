@@ -8,7 +8,7 @@ JAVA 17
 
 ## HOW TO RUN
 
-build and run TestPararrelEmployer class in your ide
+`build and run TestPararrelEmployer class in your ide`
 
 ### parameters you can play with:
 
